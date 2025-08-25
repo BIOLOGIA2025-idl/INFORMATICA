@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url("index.html.css");
+
+body {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    background-image: url(img/ff9eca2a1d4590547c10d3fdcad9216d.jpg), -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,139,0,1.00) 100%);
+    background-image: url(img/ff9eca2a1d4590547c10d3fdcad9216d.jpg), -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,139,0,1.00) 100%);
+    background-image: url(img/ff9eca2a1d4590547c10d3fdcad9216d.jpg), -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,139,0,1.00) 100%);
+    background-image: url(img/ff9eca2a1d4590547c10d3fdcad9216d.jpg), linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(255,139,0,1.00) 100%);
+    background-size: 130px auto;
+ /*   background-position: 5px 5px;*//*borde*/
+    background-repeat: repeat-x;	
+}
+
+img {
+    border-width: 3px;
+    border-style: double dashed dotted solid;
+    border-color: rgba(0,0,0,1.00) rgba(19,74,241,1.00) rgba(0,0,0,1.00) rgba(0,0,0,1.00);
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-bottom: 15px;
+    background-color: rgba(243,171,74,1.00);	
+    
+}
+h1 {color: rgba(255,60,25,1.00);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    text-decoration: underline;
+    margin-top: 80px;
+    margin-left: 70px;
+    margin-bottom: 15px;
+}
+
+h2 {color:aqua;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+    color: rgba(70,197,233,1.00);
+    font-size: 20px;    
+	text-align: justify;
+}
+p {
+    color: rgba(0,0,0,1.00);
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    text-align: justify;
+    }
+
+h3 {color:aqua;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-bottom: 15px;
+    color: rgba(70,197,233,1.00);
+    font-size: 20px;
+}
+li {color:aqua;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-bottom: 15px;
+    color: rgba(70,197,233,1.00);
+    font-size: 15px;
+    
+}
+	a {
+    color: rgba(183,7,234,1.00);
+    background-color: rgba(239,180,102,1.00);
+}
+h4{ margin-top: 10px;
+    margin-left: 100px;
+    margin-bottom: 15px;
+    color: rgba(9,242,198,1.00);
+}
